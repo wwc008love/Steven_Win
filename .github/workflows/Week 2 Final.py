@@ -22,7 +22,7 @@ print(employee_list)
 
 def process_data(employee_list):
    department_list = []
-   for employmee_data in employee_list:
+   for employee_data in employee_list:
      department_data[department_name] = department_list.count(department_name)
    return department_data
 
